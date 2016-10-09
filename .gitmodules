@@ -1,0 +1,3 @@
+[submodule "core/paramiko"]
+	path = core/paramiko
+	url = https://github.com/paramiko/paramiko
